@@ -14,7 +14,7 @@
     "react-scripts": "3.4.3",
     "save": "^2.4.0"
   },
-  "homepage": "http://orbitmechanic.github.io",
+  "homepage": "http://orbitmechanic.github.io/station",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
