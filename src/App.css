@@ -132,8 +132,9 @@
   }
   #Screen2{
     top: 5.5%; height: 72%;
-    left: 77%; width: 25%;
-    transform: perspective(400px) rotateY(-17.5deg);
+    left: 78.6%; width: 20.6%;
+    border-radius: 50px 0 0 50px;
+    transform: perspective(400px) rotateY(-15deg);
   }
   #Button1 {
     left:19%; width: 10%;

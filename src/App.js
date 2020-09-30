@@ -12,8 +12,8 @@ function App() {
         <Navbar.Brand 
           href="#home">
             <img 
-              alt='React logo'
-              src='./logo192.png'
+              alt='<logo>'
+              src='./logo.svg'
               height='30' width='30'
               className='React Bootstrap logo'
             />
